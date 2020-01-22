@@ -3,3 +3,5 @@ class Bike:
 		print("Creating new Bike!")
 		self.color = "White"
 		self.name = "Big Bike"
+	def pedal(this):
+		print("You pedal really fast")
