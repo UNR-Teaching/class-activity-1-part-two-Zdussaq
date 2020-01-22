@@ -1,5 +1,7 @@
 # Class Activity 1 part two
 
+Matt Pritzkow and Zachary Dussaq
+
 Your first paired programming problem!
 
 ### Problem
