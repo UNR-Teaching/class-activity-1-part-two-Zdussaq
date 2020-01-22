@@ -1,7 +1,8 @@
 from engine import engine
 from wheels import wheels
+from vehicle import Vehicle
 
-class Car:
+class Car(Vehicle):
 	def __init__(self):
 		print("Creating new Car!")
 		self.color = "Black"
